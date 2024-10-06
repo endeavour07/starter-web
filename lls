@@ -1,0 +1,50 @@
+[33mcommit 4ba1fcf3b1afce3c6bf2641cfdcc31a80ae52d5b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Kittu <kittu.diva1999@gmail.com>
+Date:   Sun Oct 6 10:20:46 2024 +0530
+
+    renaming
+
+[33mcommit 3855fa9e42f84ce1044964ce0d6a91f5b12eb3b3[m
+Author: Kittu <kittu.diva1999@gmail.com>
+Date:   Sun Oct 6 10:17:43 2024 +0530
+
+    chaning file name
+
+[33mcommit 0c238afc924fb6de1eaa85118ea7676b12afdcdc[m
+Author: Kittu <kittu.diva1999@gmail.com>
+Date:   Sun Oct 6 10:14:24 2024 +0530
+
+    adding new files
+
+[33mcommit 281472ef48a67f16f6d412f83b122fe86a57054d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Divakar <divakarrdy1999@gmail.com>
+Date:   Sun Oct 6 09:36:56 2024 +0530
+
+    My first commit
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
