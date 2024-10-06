@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Divakar -- Devops Engineer -- Kittu@dev
 
 # THANKS
 
