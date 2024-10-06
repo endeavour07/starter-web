@@ -23,3 +23,8 @@ your ccontribution makes this project mpore valueeble
 ##Deployment
 
 This is the sample of to how to deploy our project in AWS
+
+
+##Copyright
+
+
