@@ -18,6 +18,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 your ccontribution makes this project mpore valueeble
+First fort it and devlop and then make  a pull request,
 
 
 ##Deployment
